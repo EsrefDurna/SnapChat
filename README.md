@@ -1,8 +1,5 @@
 # SnapChat
-SnapChat Swag
-
-# Demo
-https://www.youtube.com/watch?v=sStf_ZbTXss
+SnapChat Clone
 
 #Run App
 - Clone
